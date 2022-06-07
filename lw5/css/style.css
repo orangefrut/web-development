@@ -1,0 +1,260 @@
+a
+{
+    text-decoration: none;
+    color: unset;
+}
+
+.navigation-text
+{
+    font: normal 500 16px/20px 'Montserrat';
+	color: #000;
+}
+
+.header__button-registration
+{
+    width: 167px;
+    height: 17px; 	
+	background: #05090c;
+	border-radius: 4.59px; 
+    font: normal 600 16px/16px 'Montserrat';
+	color: #fff;  
+    padding: 19px 40px; 
+    text-align: center;
+}
+
+.info__headline
+{
+    font: normal 600 100px/1.22 'Montserrat';
+}
+
+.text_extra
+{
+    color: #ee58b6;
+}
+
+.info__about
+{
+    width: 545px;
+    font: normal 400 26px/1.2 'Roboto Condensed';
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.info__button-registration
+{
+    width: 167px;
+    height: 17px;
+	background: #05090c;
+	border-radius: 4.59px;
+    font: normal 600 16px/16px 'Montserrat';
+	color: #fff;   
+    padding: 19px 82.5px; 
+}
+
+/*/////////////////////////////////////////////*/
+
+.main__short-description
+{
+    width: 100%;
+    background: #000;   
+}
+
+.panel__time
+{
+    width: 285px;
+    height: 145px;
+    text-align: center;
+}
+
+.time__image
+{
+    margin: 6px -1px -6px 1px;
+}
+
+.time__text
+{
+    width: 303px;
+    font: normal 400 22px/1.2 'Roboto Condensed';
+    color: #fff;
+    margin-left: -9px;
+}
+
+.panel__notebook
+{
+    width: 337px;
+    height: 132px;
+    text-align: center;
+}
+
+.notebook__image
+{
+    margin: 5px 1px -5px -1px;
+}
+
+.notebook__text
+{
+    width: 337px;
+    font: normal 400 22px/1.2 'Roboto Condensed';
+    color: #fff;
+    margin-left: 0px;
+}
+
+.panel__target
+{
+    width: 293px;
+    height: 132px;
+    text-align: center;
+}
+
+.target__image
+{
+    margin: 5px 0px -5px 0px;
+}
+
+.target__text
+{
+    width: 337px;
+    font: normal 400 22px/1.2 'Roboto Condensed';
+    color: #fff;
+    margin-left: -22px;
+}
+
+/*/////////////////////////////////////////////*/
+
+.deadline-headline
+{
+    font: normal 500 48px/1.26 'Montserrat';
+    color: #000;
+}
+
+.deadline-text
+{
+    font: normal 400 18px/24px 'Roboto Condensed';
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.fail__headline
+{
+    width: 376px;
+    height: 61px;    
+}
+
+.fail__text
+{
+    width: 574px;
+    height: 48px;
+    margin: -23px 0 23px 0;
+}
+
+.again__headline
+{
+    width: 386px;
+    height: 61px;
+}
+
+.again__text
+{
+    width: 574px;
+    height: 44px;
+    margin: -23px 0 23px 0;
+}
+
+/*///////////////////////////////////////////////*/
+
+.opportunities__headline
+{
+    width: 553px;
+    height: 59px;
+    font: normal 500 48px/59px 'Montserrat';
+    color: #000;
+    text-align: center;
+}
+
+.block-opportunities
+{
+    width: 358px;
+    height: 190px;
+    background: #000;
+    border-radius: 7.36px;
+    margin: 30px;
+    color: #fff;
+}
+
+.opportunities-text
+{
+    width: 269.77px;
+    height: 51.5px;
+    font: normal 400 18px/21px 'Roboto Condensed';
+}
+
+.opportunities-content__first
+{
+    padding: 32px 0 0 38px;
+}
+
+.opportunities-content__second
+{
+    padding: 32px 0 0 39px;
+}
+
+.opportunities-content__third
+{
+    padding: 32px 0 0 38px;
+}
+
+.opportunities-content__fourth
+{
+    padding: 33px 0 0 38px;
+}
+
+.opportunities-content__fifth
+{
+    padding: 33px 0 0 39px;
+}
+
+.opportunities-content__sixth
+{
+    padding: 33px 0 0 38px;
+}
+
+.opportunities__first-text
+{
+    margin-left: 1px;
+    margin-top: 17px;
+}
+
+.opportunities__second-text
+{
+    margin-left: 1px;
+    margin-top: 17px;
+}
+
+.opportunities__third-text
+{
+    margin-left: 1px;
+    margin-top: 17px;
+}
+
+.opportunities__fourth-text
+{
+    margin-left: 1px;
+    margin-top: 16px;
+} 
+
+.opportunities__fifth-text
+{
+    margin-top: 16px;
+} 
+
+.opportunities__sixth-text
+{
+    margin-left: 1px;
+    margin-top: 16px;
+    width: 286px;
+}
+
+.footer
+{
+    background: #000;
+    padding: 35px 0 35.31px 0;
+    text-align: center;
+}
